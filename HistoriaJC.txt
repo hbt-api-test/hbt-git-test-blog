@@ -19,5 +19,5 @@ Conoceremos algunos proyectos
 
 Implementacion Labvantage Reficar
 Desarrollo sistema de Nomina microservicios 
-
+Desarrollo Oracle
 
