@@ -17,3 +17,7 @@ Angular aunque no es mi fuerte
 
 Conoceremos algunos proyectos
 
+Implementacion Labvantage Reficar
+Desarrollo sistema de Nomina microservicios 
+
+
