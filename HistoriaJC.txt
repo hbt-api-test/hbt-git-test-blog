@@ -7,3 +7,11 @@ Desarrollador de software desde hace mas de 15 años
 Y tengo que entrenar a mi equipo para que sean unos duros manejando el control de versiones Git
 
 He aprendido muchas tecnologias desde mis inicios en el area de desarrollo 
+
+C++
+Visual Basic 6.0
+Visual FoxPro 6 a la 9
+Visual .NET 2003 a 2017
+Java 1.8 a 17
+Angular aunque no es mi fuerte
+
