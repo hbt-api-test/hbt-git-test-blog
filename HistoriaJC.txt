@@ -1,0 +1,7 @@
+Esta es mi historia
+
+Soy Jhon Solis, ingeniero de sistemas muy apasionado por el aprendizaje 
+
+Desarrollador de software desde hace mas de 15 años
+
+Y tengo que entrenar a mi equipo para que sean unos duros manejando el control de versiones Git
