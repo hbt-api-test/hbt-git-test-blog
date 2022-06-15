@@ -15,3 +15,5 @@ Visual .NET 2003 a 2017
 Java 1.8 a 17
 Angular aunque no es mi fuerte
 
+Conoceremos algunos proyectos
+
